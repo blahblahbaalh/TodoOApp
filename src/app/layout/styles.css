@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&family=Pacifico&display=swap');
+:root {
+    --peach: #FDEFEF;
+    --pink: #F4DFD0;
+    --biege: #DAD0C2;
+    --coffee: #CDBBA7;
+}
+
+body {
+    background-color: var(--peach);
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+textarea {
+    border: none;
+    outline: none;
+    background-color: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+form {
+    margin: 50px auto;
+}
