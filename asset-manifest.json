@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TodoOApp/static/css/main.d6afeafc.chunk.css",
+    "main.js": "/TodoOApp/static/js/main.f5f3a4e7.chunk.js",
+    "main.js.map": "/TodoOApp/static/js/main.f5f3a4e7.chunk.js.map",
+    "runtime-main.js": "/TodoOApp/static/js/runtime-main.a56949ce.js",
+    "runtime-main.js.map": "/TodoOApp/static/js/runtime-main.a56949ce.js.map",
+    "static/js/2.e8bd21aa.chunk.js": "/TodoOApp/static/js/2.e8bd21aa.chunk.js",
+    "static/js/2.e8bd21aa.chunk.js.map": "/TodoOApp/static/js/2.e8bd21aa.chunk.js.map",
+    "index.html": "/TodoOApp/index.html",
+    "static/css/main.d6afeafc.chunk.css.map": "/TodoOApp/static/css/main.d6afeafc.chunk.css.map",
+    "static/js/2.e8bd21aa.chunk.js.LICENSE.txt": "/TodoOApp/static/js/2.e8bd21aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a56949ce.js",
+    "static/js/2.e8bd21aa.chunk.js",
+    "static/css/main.d6afeafc.chunk.css",
+    "static/js/main.f5f3a4e7.chunk.js"
+  ]
+}
